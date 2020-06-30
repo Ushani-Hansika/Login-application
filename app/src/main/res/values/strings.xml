@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">June_test</string>
+    <string name="user_nameM">User Name</string>
+    <string name="passwordM">Password</string>
+    <string name="loginM">Login</string>
+    <string name="register_M">Register</string>
+    <string name="txtRegister_R">Register</string>
+    <string name="txtUserName_R">User Name</string>
+    <string name="txtAge_R">Age</string>
+    <string name="txtPassword_R">Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">gender</string>
+    <string name="txtWelcome">Welcome to the dashboard</string>
+    <string name="search">Search</string>
+    <string name="entername">Enter the name</string>
+
+</resources>
